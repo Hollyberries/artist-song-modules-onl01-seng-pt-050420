@@ -14,6 +14,6 @@ module Memorable
        self.class.all << self
     end
 
+  end
  end
-end
 end 
